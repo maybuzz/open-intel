@@ -1,0 +1,22 @@
+{
+  "name": "open-intel-graphics",
+  "version": "1.0.0",
+  "description": "CMD information design project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maybuzz/open-intel.git"
+  },
+  "author": "Luna May Johansson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maybuzz/open-intel/issues"
+  },
+  "homepage": "https://github.com/maybuzz/open-intel#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
