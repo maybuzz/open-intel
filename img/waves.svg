@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none">
+            <defs>
+                <path id="wave-1" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" opacity=".7"></path>
+                <path id="wave-2" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" opacity=".7"></path>
+                <path id="wave-3" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" opacity=".7"></path>
+                <path id="wave-4" d="M-160 44c30 0 58-18 88-18s 58 18 88 18 58-18 88-18 58 18 88 18 v44h-352z" opacity=".7"></path>
+                <radialGradient id="g-wave-1" cy="54.87966%" r="179.91221%" fx="50%" fy="54.87966%">
+                    <stop offset="0%" stop-color="#3EC6EE"></stop>
+                    <stop offset="100%" stop-color="#3EC6EE"></stop>
+                </radialGradient>
+                <radialGradient id="g-wave-2" cx="26.64018%" cy="30.76487%" r="88.51967%" fx="26.64018%" fy="30.76487%">
+                    <stop offset="0%" stop-color="#3EEDEE"></stop>
+                    <stop offset="100%" stop-color="#3EEDEE"></stop>
+                </radialGradient>
+                <radialGradient id="g-wave-3" cx="52.67057%" cy="67.87424%" r="210.44799%" fx="52.67057%" fy="67.87424%">
+                    <stop offset="0%" stop-color="#D3C3FD"></stop>
+                    <stop offset="100%" stop-color="#D3C3FD"></stop>
+                </radialGradient>
+                <radialGradient id="g-wave-4" cx="52.67057%" cy="67.87424%" r="210.44799%" fx="52.67057%" fy="67.87424%">
+                    <stop offset="0%" stop-color="#99B1FB"></stop>
+                    <stop offset="100%" stop-color="#99B1FB"></stop>
+                </radialGradient>
+            </defs>
+            <g class="waves">
+                <use xlink:href="#wave-1" fill="url(#g-wave-1)" x="50" y="0"></use>
+                <use xlink:href="#wave-2" fill="url(#g-wave-2)" x="50" y="2"></use>
+                <use xlink:href="#wave-3" fill="url(#g-wave-3)" x="50" y="4"></use>
+                <use xlink:href="#wave-4" fill="url(#g-wave-4)" x="50" y="6"></use>
+            </g>
+        </svg>
